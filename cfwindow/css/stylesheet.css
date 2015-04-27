@@ -1,0 +1,37 @@
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:0px;
+	margin:20px;
+}
+table {	
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border:1px solid #666;
+	border-collapse:collapse;
+	width:100%;
+}
+td,th {
+	border:1px solid #666;
+	padding:4px;
+}
+caption {
+	background:#ddd;
+	padding:4px;
+	border-top:1px solid #666;
+	border-right:1px solid #666;
+	border-left:1px solid #666;
+}
+.code {
+	font-family:courier new;
+	font-size:12px;
+	color: black;
+	border: solid thin #bc5e1f;
+	background-color: #f3f3f3;
+	overflow: auto;
+	padding: 4px;
+	line-height: 15px;
+	margin:5px 0;	
+	width:790px;
+}
+
